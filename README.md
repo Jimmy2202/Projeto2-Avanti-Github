@@ -1,8 +1,9 @@
-# React + Vite
+## Projeto Avanti - Buscador Github
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicação que visa buscar usuários do github e suas biografias.
+[![Deploy](https://img.shields.io/badge/Acesse%20Aqui%20o%20Site%20No%20Ar-red)](https://jimmy2202.github.io/Projeto2-Avanti-Github/)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologias Utilizadas:
+<img src="https://i.imgur.com/mG2m2mV.gif" width="100" heigth="100"></img>
+<img src="https://i.imgur.com/a0c1jMS.png" width="100" heigth="100"></img>
+<img src="https://i.imgur.com/rtjYk6K.png" width="100" heigth="100"></img>
