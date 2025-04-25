@@ -13,7 +13,7 @@ function Input() {
   const [nameUser, setNameUser] = useState([]);
   const [isLoading, setIsLoading] = useState(false);
   const [verify_Search, setVerifySearch] = useState(true);
-  const api_key = import.meta.env.VITE_GITHUB_SECRET;
+  //const api_key = import.meta.env.VITE_GITHUB_SECRET;
 
   const handleBio = async (dataItems) => {
     console.log(dataItems);
@@ -25,7 +25,7 @@ function Input() {
             {
               headers: {
                 Accept: "application/vnd.github+json",
-                Authorization: `Bearer ${api_key}`,
+                //Authorization: `Bearer ${api_key}`,
                 "X-GitHub-Api-Version": "2022-11-28",
               },
             }
