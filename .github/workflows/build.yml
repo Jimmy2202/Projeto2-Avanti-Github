@@ -20,6 +20,8 @@ jobs:
         run: |
           npm ci
           npm run build
+        env:
+          VITE_GITHUB_SECRET: ${{ secrets.VITE_GITHUB_SECRET }}
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3
         with:
