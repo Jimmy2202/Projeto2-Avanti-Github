@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .bg {
-  background-image: url("../Untitled\ Project\ \(19\).jpg");
+  background-image: url("../19.jpg");
   background-position: center;
   background-size: cover;
 }

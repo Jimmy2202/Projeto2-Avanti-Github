@@ -62,7 +62,7 @@ function Input() {
 
   return (
     <div className="w-full h-fit flex flex-col gap-8 justify-center items-center">
-      <img src="../Group 1.png" alt="" />
+      <img src="../Group1.png" alt="" />
       <form
         onSubmit={handleSearch}
         className="w-[50%] sm-custom:w-full h-fit relative flex flex-row justify-center items-center"
