@@ -1,4 +1,5 @@
 import "./App.css";
+import "./index.css";
 import SearchDiv from "./components/SearchDiv";
 
 function App() {
